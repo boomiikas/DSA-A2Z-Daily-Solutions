@@ -29,7 +29,7 @@ The deal is simple:
 ---
 
 ## 🔗 Connect With Me
-- 💻 [LeetCode](https://leetcode.com/u/boomikas/))  
+- 💻 [LeetCode](https://leetcode.com/u/boomikas/)
 - 🌐 [LinkedIn](www.linkedin.com/in/boomika-selvakumar-981b55311)  
 
 ---
