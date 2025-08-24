@@ -1,0 +1,13 @@
+prefix=D:/Daily code/venv/Library
+exec_prefix=D:/Daily code/venv/Library
+libdir=D:/Daily code/venv/Library/lib
+sharedlibdir=D:/Daily code/venv/Library/lib
+includedir=D:/Daily code/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
